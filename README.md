@@ -12,12 +12,12 @@ Built with:
 🚀 Features
 --------------------
 
-✅ Extract Cycle Graphs
+Extract Cycle Graphs
 - Upload a raw Excel file generated from battery testing
 - Specify material weight and cycle range (e.g., 1 to 10)
 - Download a new Excel file with voltage vs capacity charts (charging + discharging)
 
-✅ Combine Excel Files
+Combine Excel Files
 - Upload 2 or more Excel files generated using the extract feature
 - Select common cycles available in all uploaded files
 - Download a combined Excel file with a comparison chart
